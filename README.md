@@ -15,7 +15,8 @@ This repository demonstrates how SSL/TLS **certificate pinning** works in the Me
 ---
 
 ## ⚙️ Supported Architectures
-- **arm64 / aarch64**
+- **arm64-v8a**
+- **x86_64**
 ---
 ## Messenger App Version 
 - **537.0.0.52.109**
