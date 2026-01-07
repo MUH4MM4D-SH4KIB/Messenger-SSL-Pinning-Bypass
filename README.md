@@ -43,6 +43,8 @@ This repository demonstrates how SSL/TLS **certificate pinning** works in the Me
 
 3. Use Proxypin / Reqable / Burp Suite / Mitmproxy for capturing traffics.
 
+keyword: 信使 SSL 固定 旁路
+تجاوز تثبيت شهادة SSL في برنامج المراسلة
 ## For latest patched libcoldstart.so contract with me.
 <a href="https://t.me/MUH4MM4DSH4KIB" target="_blank">
   <img src="https://img.shields.io/badge/💬_Chat_on_Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&labelColor=121212&color=26A5E4&logoWidth=20" alt="Telegram" style="border-radius: 8px;"/>
