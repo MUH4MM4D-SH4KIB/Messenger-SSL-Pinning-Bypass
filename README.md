@@ -1,6 +1,6 @@
 # 🔐 SSL Pinning Bypass Messenger App
 
-This repository shows how to Bypass Messenger SSL Pinning and intercept Messenger Traffic.
+Messenger SSL Pinning Bypass and intercept Messenger Traffic.
 
 ---
 
@@ -43,8 +43,6 @@ https://github.com/user-attachments/assets/d9069639-2a13-48c2-acc8-74a897930bf8
 
 3. Use Proxypin / Reqable / Burp Suite / Mitmproxy for capturing traffics.
 
-keyword: 信使 SSL 固定 旁路
-تجاوز تثبيت شهادة SSL في برنامج المراسلة
 ## For latest patched libcoldstart.so contract with me.
 <a href="https://t.me/MUH4MM4DSH4KIB" target="_blank">
   <img src="https://img.shields.io/badge/💬_Chat_on_Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&labelColor=121212&color=26A5E4&logoWidth=20" alt="Telegram" style="border-radius: 8px;"/>
