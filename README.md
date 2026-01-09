@@ -1,12 +1,12 @@
-# 🔐 SSL Pinning Bypass — Messenger App
+# 🔐 SSL Pinning Bypass Messenger App
 
-This repository demonstrates how SSL/TLS **certificate pinning** works in the Messenger Android app, along with a **practical example** of bypass techniques and HTTPS traffic capture.
+This repository shows how to Bypass Messenger SSL Pinning and intercept Messenger Traffic.
 
 ---
 
 ## 🎥 Demo Video
 
-▶️ [Watch the demonstration](https://github.com/user-attachments/assets/d9069639-2a13-48c2-acc8-74a897930bf8)
+https://github.com/user-attachments/assets/d9069639-2a13-48c2-acc8-74a897930bf8
 
 ---
 
