@@ -15,7 +15,7 @@ Messenger SSL Pinning Bypass and intercept Messenger Traffic.
 - **x86_64**
 ---
 ## Messenger App Version 
-- **537.0.0.52.109**
+- **544.0.0.17.379**
 ---
 
 ## 📱 Mobile Device Requirements
