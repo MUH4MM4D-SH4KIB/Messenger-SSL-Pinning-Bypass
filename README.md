@@ -1,6 +1,6 @@
 # 🔐 SSL Pinning Bypass Messenger App
 
-Messenger SSL Pinning Bypass and intercept Messenger Traffic.
+Messenger SSL Pinning Bypass for Android – intercept Messenger traffic.
 
 ---
 
