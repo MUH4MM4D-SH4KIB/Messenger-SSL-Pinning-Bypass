@@ -24,7 +24,6 @@ This project provides two bypass methods for Messenger's SSL/TLS certificate pin
 - ✅ x86_64 — Simple library replacement for emulator setups
 - ✅ Compatible with Android emulators (Nox, LDPlayer, BlueStacks)
 - ✅ Works with popular proxy tools (Burp Suite, Mitmproxy, Reqable, Proxypin)
-- ✅ Full app functionality preserved — chat, call, and share media normally
 
 ---
 
